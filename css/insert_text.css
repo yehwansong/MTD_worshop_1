@@ -1,0 +1,11 @@
+
+            @font-face {
+                font-family: 'Cabin-VariableFont';
+                src: url("../font/Cabin-VariableFont.woff2") format('woff2');
+            }
+            *{
+			    font-family: 'Cabin-VariableFont';
+			    line-height:1;
+			    font-size: 500px;
+			    font-variation-settings:"wdth" 400 
+			}
